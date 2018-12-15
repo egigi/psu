@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: "Testing del Software"
+PURPOSE OF PROJECT: Mostrare cos'è il testing o collaudo del software 
+DATE: 15/12/2018
+HOW TO START THIS PROJECT: Clone del progetto ed esecuzione con BlueJ  
+AUTHORS: Luigi D'Alessio
+USER INSTRUCTIONS: https://goo.gl/9zBXYe 
